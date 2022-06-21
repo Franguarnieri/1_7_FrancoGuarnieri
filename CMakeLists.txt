@@ -3,4 +3,4 @@ project(1_7_FrancoGuarnieri C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(1_7_FrancoGuarnieri main.c)
+add_executable(1_7_FrancoGuarnieri main.c helper.c helper.h)
